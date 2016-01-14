@@ -7,4 +7,4 @@ ___
 
 Base maps are copyright their original creators.
 
-I give my modifications as CC Attribution 3.0.
+Modifications (rent overlay) by Jonathan Herman, CC Attribution 3.0 license.
